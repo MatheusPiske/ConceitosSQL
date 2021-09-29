@@ -1,0 +1,22 @@
+# Consultando os Bancos de Dados e modificando
+
+SELEÇÃO - PROJEÇÃO - JUNÇÃO
+
+# Projeção
+
+-- O comando select é essencial em qualquer SGBD e serve para
+projetar e criar dados solicitados.
+
+-- Com ele podemos criar novas projeções na tela e trazer dados
+de dentro de tabelas para consultar as informações.
+
+-- O select * from deve ser usado para fins acadêmicos, uma vez que,
+traz todas as colunas de uma tabela e carrega mais dados por isso.
+
+# Seleção
+
+-- Comando WHERE para filtrar as linhas de uma tabela
+
+-- O comando like é usado ao invés da = no WHERE juntamente com o 
+caracter coringa % que nos retorna a linha solicitada que contenha
+o conteúdo filtrado pelo where.

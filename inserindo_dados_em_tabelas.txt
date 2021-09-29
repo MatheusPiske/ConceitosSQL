@@ -1,0 +1,12 @@
+Opções de preenchimento de tabelas:
+
+-- Inserindo dados através da omissão de colunas não é a 
+opção mais segura, uma vez que, se não colocados em ordem
+certinha, podem ocasionar o erro no preenchimento.
+
+-- Inserindo os dados indicando as colunas para onde cada 
+um vai é mais preciso e você pode escolher apenas os campos 
+que quer preencher.
+
+-- O insert compacto é uma função do MySQL e nela você pode 
+fazer mais de uma inserção em apenas um comando.
